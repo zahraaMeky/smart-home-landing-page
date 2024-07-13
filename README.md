@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-website-url/assets/banner.jpg" alt="Smart Home Landing Page">
+  <img src="https://github.com/user-attachments/assets/3c7622db-0190-468d-9b9f-7d5fc3a20169">
   <br />
 </div>
 <br />
